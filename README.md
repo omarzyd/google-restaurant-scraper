@@ -16,5 +16,5 @@ A **Python Selenium script** that scrapes restaurant details from **Google Searc
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/google-restaurant-scraper.git
+   git clone https://github.com/omarzyd/google-restaurant-scraper.git
    cd google-restaurant-scraper
